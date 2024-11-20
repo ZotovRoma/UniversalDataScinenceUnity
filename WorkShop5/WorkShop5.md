@@ -44,7 +44,7 @@
 
 Так как коэффиент корреляции в машинном обучении это взаимосвязь переменной-предиктора и целевой переменной (Target Variable), то в ходе анализа кода выяснилось. что текущую взаимосвязь между Agent и Target выражает переменная "distanceToTarget", а константным барьером этой взаимосвязи, определяющим дальнейший ход обучения, является коэффициент 1.42
 
-![Alt text](https://downloader.disk.yandex.ru/preview/0a3af846b8dccd6a2b8a14a5b0591339d17cdd85c581aa7cfaa0eed26bf870b9/673de225/jR1efsF4IF0UqoVGUTPuKK6PeRlDLPVZrEusnZyk9BdgbWeS729UCoov1Gm5j-tAa4gCMTtGQw-_bBeM0TqcjA%3D%3D?uid=0&filename=%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202024-11-20%20141645.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v2&size=2048x2048 "Коэффицент корреляции")
+![Alt text](https://sun9-59.userapi.com/impg/tepbFYn0E5ZVpvBVqZJtsaDEr9mg6EBmH1iFwA/Y2PHBDFKO3k.jpg?size=428x152&quality=96&sign=292c2b49d0c081edff5202098026b059&type=album "Коэффицент корреляции")
 
 В данном случае влияние коэффициента корреляции на обучение следующее: Чем он меньше, тем точнее обучится модель, так как в данном случае он является строгой верхней границей, определяющей вознаграждение. Также стоит учитывать, что уменьшение данного параметра может сильно увеличить время обучения модели
 

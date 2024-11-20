@@ -47,7 +47,7 @@
 
 Схема экономической модели RTF-Coin выглядит следующим образом: 
 
-![](https://downloader.disk.yandex.ru/preview/99d8499fb23a9bd8764fcba655c1ee99915bf85369795d6351a430d6c279dc82/673a4cd9/F7xpV5LaJ1okhX-aGJFVo24TFDm_olX6zySS0AHqDyrnrG9OH5Ffv2bcDmUGJ_K-M4lqf6bvPJ_zWNpEYJWESQ%3D%3D?uid=0&filename=88.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v2&size=1920x868)
+![](https://sun9-30.userapi.com/impg/vnC_AoNLeNlXUq1uddU-mHUcwqmZe2rRcbszfg/LoHaJnbvGUs.jpg?size=863x866&quality=96&sign=efa7bf5f0157e15343f62ed67edbcb58&type=album)
 
 ## Задание 2
 ### С помощью скрипта на языке Python заполните google-таблицу данными, описывающими выбранную игровую переменную в игре “СПАСТИ РТФ:Выживание”. Средствами google-sheets визуализируйте данные в google-таблице (постройте график / диаграмму и пр.) для наглядного представления выбранной игровой величины. Опишите характер изменения этой величины, опишите недостатки в реализации этой величины (например, в игре может произойти условие наступления эксплойта) и предложите до 3-х вариантов модификации условий работы с переменной, чтобы сделать игровой опыт лучше.
